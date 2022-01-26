@@ -16,7 +16,6 @@
 修改自EatKano
 没改完，只改了标题页，暂且先别点进去玩qwq
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Page](https://arcxingye.github.io/EatKano/index.html)
+
+[EatKano原网页](https://arcxingye.github.io/EatKano/index.html)
 
