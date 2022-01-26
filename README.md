@@ -14,7 +14,7 @@
 
 吃掉cer
 修改自EatKano
-没改完，只改了标题页，暂且先别点进去玩qwq
+没改完，目前只改了标题页
 
 
 [EatKano原网页](https://arcxingye.github.io/EatKano/index.html)
