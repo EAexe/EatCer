@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/EAexe/EatCer/blob/main/static/image/cer.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <img src="https://github.com/EAexe/EatCer/blob/main/static/image/cer.png?raw=true" width="100" height="100" alt="EatCer"></a>
 </p>
 <div align="center">
 
@@ -14,6 +14,7 @@
 
 吃掉cer
 修改自EatKano
+没改完，只改了标题页，暂且先别点进去玩qwq
 
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
